@@ -1,0 +1,22 @@
+{
+  "name": "big-daddy-milkers",
+  "version": "1.0.0",
+  "description": "hopefully a less fucking dumpster fire of a discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrozenFire1893/big-daddy-milkers.git"
+  },
+  "author": "FrozenFire1893 (RyanInvicta#4751)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrozenFire1893/big-daddy-milkers/issues"
+  },
+  "homepage": "https://github.com/FrozenFire1893/big-daddy-milkers#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
